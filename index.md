@@ -1,6 +1,6 @@
 ---
 title: Yuxiang's Personal Website
-name: 林森
+name: Yuxiang Wei
 date: 08/29/2022
 photo_path: ./static/images/yuxiang.jpg
 email_school: ywei40@illinois.edu
@@ -13,6 +13,8 @@ bibliography: ./static/bib.bib
 nocite: |
   @*
 ---
+
+## 简介
 
 ## About
 
