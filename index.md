@@ -1,18 +1,3 @@
----
-title: Yuxiang's Personal Website
-name: Yuxiang Wei
-date: 08/29/2022
-photo_path: ./static/images/yuxiang.jpg
-email_school: ywei40@illinois.edu
-email_personal: yuxiang630.wei@gmail.com
-github_id: UniverseFly
-github_url: https://github.com/UniverseFly
-twitter_id: YuxiangWei9
-twitter_url: 'https://twitter.com/YuxiangWei9'
-bibliography: ./static/bib.bib
-nocite: |
-  @*
----
 
 ## 简介
 
